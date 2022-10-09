@@ -20,10 +20,10 @@ First you need to give execute permission to gradlew
 chmod +x gradlew
 ```
 Then you should build the project
-```aidl
+```
 ./gradlew build
 ```
 Finally you can run the test
-```aidl
+```
 ./gradlew test
 ```
